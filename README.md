@@ -1,1 +1,1 @@
-# Generator-Story
+# 2 project for "1 project per day"
